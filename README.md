@@ -2,7 +2,7 @@
 
 # Overview
 
-Swahili is spoken by 100-150 million people across East Africa. News contributes to education, technology, and the economic growth of a country, and news in local languages plays an important cultural role in many Africa countries. In the modern age, African languages in news and other spheres are at risk of being lost as English becomes the dominant language in online spaces. This project focuses on classifying swahili news into different major categories
+Swahili is spoken by 100-150 million people across East Africa. News contributes to education, technology, and the economic growth of a country, and news in local languages plays an important cultural role in many Africa countries. In the modern age, African languages in news and other spheres are at risk of being lost as English becomes the dominant language in online spaces. This project focuses on classifying swahili news into different meanigfull categories
 
 # Objective
 
