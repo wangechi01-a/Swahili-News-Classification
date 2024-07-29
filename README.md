@@ -20,4 +20,5 @@ The objective of this project is to develop a multi-class classification model t
 # Tools and Technologies used:
 
 1 Python
+
 2. Fastai Blurr, Transformers
